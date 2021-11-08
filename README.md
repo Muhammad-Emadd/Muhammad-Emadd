@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-Emadd
 - 👀 I’m interested in JS and React 
-- 🌱 I’m currently learning Rust and filter
+- 🌱 I’m currently learning dart and flutter
 
 
 <!---
