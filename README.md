@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Emad</h1>
+<h1 align="center">Hi , I'm Muhammed Emad</h1>
 <h3 align="center">A passionate full Stack developer from Egypt</h3>
 
 - 🌱 I’m currently learning Software Engineering Concepts and php **Mastering Back-End in Node.js and learning PHP**
