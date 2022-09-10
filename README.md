@@ -17,4 +17,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Emadd&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Emadd&show_icons=true&count_private=true)](https://github.com/Muhammad-Emadd/github-readme-stats)
+
