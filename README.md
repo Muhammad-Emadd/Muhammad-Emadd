@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Software Engineering Concepts and php **Mastering Back-End in Node.js and learning PHP**
 
-- 💬 Ask me anything about **react, JavaScript, CSS**
+- 💬 Ask me anything about **JavaScript,  react,  CSS**
 
 - 📫 How to reach me **mohamed.emadd95@gmail.com**
 
