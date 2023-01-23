@@ -24,4 +24,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Emadd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Emadd)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Emadd&repo=react-scandi)](https://github.com/anuraghazra/github-readme-stats)
