@@ -5,7 +5,7 @@
 
 - 💬 Ask me anything about **JavaScript, react, CSS**
 
-- 📫 How to reach me **mohamed.emadd95@gmail.com**
+- 📫 How to reach me **mohamed.emadd91@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1CHCDA7YK7jaqE_S5bri7PtTohhaOIYHV/view?usp=drive_link)
 
